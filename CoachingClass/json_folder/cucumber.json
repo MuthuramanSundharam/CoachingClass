@@ -1,0 +1,267 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4370039930,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefn.start()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Success in Registration",
+        "description": "",
+        "id": "register-feature;success-in-registration",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 215305848,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user in the coaching class page",
+            "match": {
+              "location": "StepDefn.user_in_the_coaching_class_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 50244873,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "verify the title of the page",
+            "match": {
+              "location": "StepDefn.verify_the_title_of_the_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1032869404,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "verify the text on the page",
+            "match": {
+              "location": "StepDefn.verify_the_text_on_the_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1120273925,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "alert box displays for firstname",
+            "match": {
+              "location": "StepDefn.alert_box_displays_for_firstname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1594813666,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user enters first name",
+            "match": {
+              "location": "StepDefn.user_enters_first_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2102819772,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "alert box displays for lastname",
+            "match": {
+              "location": "StepDefn.alert_box_displays_for_lastname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2063938691,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user enters last name",
+            "match": {
+              "location": "StepDefn.user_enters_last_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2106319770,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters email detail",
+            "match": {
+              "location": "StepDefn.user_enters_email_detail()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5324229323,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "alert box display for mobile",
+            "match": {
+              "location": "StepDefn.alert_box_display_for_mobile_numeric_value()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 49001007,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user enters mobile detail",
+            "match": {
+              "location": "StepDefn.user_enters_mobile_detail()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1126489150,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user select type of tution required",
+            "match": {
+              "location": "StepDefn.user_select_type_of_tution_required()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1073163005,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user selects city",
+            "match": {
+              "location": "StepDefn.user_selects_city()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1073248530,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user selects mode of learning",
+            "match": {
+              "location": "StepDefn.user_selects_mode_of_learning()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2079198630,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "alert box for enquiry details",
+            "match": {
+              "location": "StepDefn.alert_box_for_enquiry_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1064251026,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user enters enquiry details",
+            "match": {
+              "location": "StepDefn.user_enters_enquiry_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28350981,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user clicks on submit button",
+            "match": {
+              "location": "StepDefn.user_clicks_on_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2014646216,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user verifies thank youy for submission",
+            "match": {
+              "location": "StepDefn.user_verifies_thank_youy_for_submission()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1025263210,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user verifies after submission form",
+            "match": {
+              "location": "StepDefn.user_verifies_after_submission_form()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1885648466,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "browser closes",
+            "match": {
+              "location": "StepDefn.browser_closes()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Register feature",
+    "description": "",
+    "id": "register-feature",
+    "keyword": "Feature",
+    "uri": "register.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Registerfeature"
+      }
+    ]
+  }
+]

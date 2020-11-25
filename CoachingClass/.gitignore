@@ -1,0 +1,15 @@
+/target/
+.git
+.settings
+drivers
+lib
+reports
+target
+test-output
+pom.xml
+extent-config.xml
+testng.xml
+.project
+.classpath
+.gitignore
+config.properties
